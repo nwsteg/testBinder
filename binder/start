@@ -1,2 +1,2 @@
 #!/bin/bash
-exec voila compare_literature_yplus_3dplot.ipynb --no-browser --port=${PORT}
+exec "voila compare_literature_yplus_3dplot.ipynb --no-browser --port=${PORT}"
